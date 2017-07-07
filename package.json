@@ -6,6 +6,7 @@
   "author": "Hao Hu <huhao@outlook.com>",
   "license": "MIT",
   "scripts": {
+    "start": "node app.js",
     "test": "standard && jest"
   },
   "dependencies": {
