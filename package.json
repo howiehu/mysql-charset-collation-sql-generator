@@ -4,5 +4,16 @@
   "main": "app.js",
   "repository": "git@github.com:howiehu/mysql-charset-collation-sql-generator.git",
   "author": "Hao Hu <huhao@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && jest"
+  },
+  "dependencies": {
+    "config": "^1.26.1",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "standard": "^10.0.2"
+  }
 }
