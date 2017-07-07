@@ -1,8 +1,9 @@
 {
   "mysql": {
-    "host": "",
+    "host": "localhost",
     "database": "",
-    "user": "",
+    "port": 3306,
+    "user": "root",
     "password": ""
   }
 }
